@@ -1,0 +1,8 @@
+c:\users\user\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+c:\users\user\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+c:\users\user\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+c:\users\user\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+c:\users\user\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+c:\users\user\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\Tech.CodeGeneration.dll
