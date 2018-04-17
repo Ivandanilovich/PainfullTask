@@ -9,6 +9,7 @@ using Tech.CodeGeneration;
 
 //что то меняешь 
 //саня
+//S
 
 namespace ConsoleApp15
 {
