@@ -7,6 +7,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Tech.CodeGeneration;
 
+//что то меняешь
+
 namespace ConsoleApp15
 {
 	class Program
