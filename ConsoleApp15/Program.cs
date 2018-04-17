@@ -7,7 +7,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Tech.CodeGeneration;
 
-//что то меняешь
+//что то меняешь 
+//саня
 
 namespace ConsoleApp15
 {
